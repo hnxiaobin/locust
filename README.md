@@ -72,3 +72,5 @@ Locust is small and very flexible and we intend to keep it that way. If you want
 ## License
 
 Open source licensed under the MIT license (see _LICENSE_ file for details).
+
+test
